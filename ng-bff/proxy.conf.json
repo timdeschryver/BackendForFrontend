@@ -1,0 +1,18 @@
+{
+  "/bff": {
+    "target": "https://localhost:7012",
+    "secure": false
+  },
+  "/signin-oidc": {
+    "target": "https://localhost:7012",
+    "secure": false
+  },
+  "/signout-callback-oidc": {
+    "target": "https://localhost:7012",
+    "secure": false
+  },
+  "/api": {
+    "target": "https://localhost:7012",
+    "secure": false
+  }
+}
